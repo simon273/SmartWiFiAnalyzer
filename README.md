@@ -31,3 +31,7 @@ build_install.bat   :: both
 ## Author
 
 Shimon Filtser — shimon.filtzer@gmail.com
+
+## License
+
+[MIT](LICENSE)
